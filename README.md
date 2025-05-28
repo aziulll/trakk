@@ -1,6 +1,6 @@
 # 📊 trakk – Event Tracking API with NestJS + MongoDB
 
-**EventPulse** is a lightweight and scalable API for collecting and storing custom events from web and mobile applications. Built with **NestJS** and **MongoDB**, it allows seamless tracking of user actions such as page views, clicks, and interactions for future analytics and reporting.
+**trakk** is a lightweight and scalable API for collecting and storing custom events from web and mobile applications. Built with **NestJS** and **MongoDB**, it allows seamless tracking of user actions such as page views, clicks, and interactions for future analytics and reporting.
 
 ## 🔧 Tech Stack
 
