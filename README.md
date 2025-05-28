@@ -1,8 +1,8 @@
-# 📊 trakk – Event Tracking API with NestJS + MongoDB
+# trakk – Event Tracking API with NestJS + MongoDB
 
 **trakk** is a lightweight and scalable API for collecting and storing custom events from web and mobile applications. Built with **NestJS** and **MongoDB**, it allows seamless tracking of user actions such as page views, clicks, and interactions for future analytics and reporting.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **NestJS** – TypeScript-based Node.js framework  
 - **MongoDB (Atlas)** – NoSQL database for event storage  
@@ -10,7 +10,7 @@
 - **class-validator + ValidationPipe** – Automatic data validation  
 - **Docker** *(optional)* – For isolated development environments  
 
-## 🚀 Core Features
+## Core Features
 
 - Register new events via `POST /events`  
 - Retrieve all events via `GET /events`  
@@ -18,7 +18,7 @@
 - Supports cloud (MongoDB Atlas) and local MongoDB  
 - Modular architecture for easy scalability (EventModule)  
 
-## 🧪 Sample Payload
+## Sample Payload
 
 ```json
 {
